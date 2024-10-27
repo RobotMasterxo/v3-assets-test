@@ -1,0 +1,21 @@
+{
+  "tokens": [
+    {
+      "chainId": 766,
+      "address": "0xa26dfBF98Dd1A32FAe56A3D2B2D60A8a41b0bDF0",
+      "name": "Wrapped QOM",
+      "symbol": "WQOM",
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/profile_images/1580732227427745794/RsQNAEaS_400x400.jpg"
+    }
+  ],
+  "name": "Qom Tokens",
+  "logoURI": "",
+  "keywords": [""],
+  "timestamp": "2024-06-13T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
