@@ -1,12 +1,77 @@
 {
+  "name": "Qom Default",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": ["QOM", "default"],
   "tokens": [
     {
-      "chainId": 766,
-      "address": "0xa26dfBF98Dd1A32FAe56A3D2B2D60A8a41b0bDF0",
       "name": "Wrapped QOM",
+      "address": "0xa26dfBF98Dd1A32FAe56A3D2B2D60A8a41b0bDF0",
       "symbol": "WQOM",
       "decimals": 18,
+      "chainId": 766,
       "logoURI": "https://pbs.twimg.com/profile_images/1580732227427745794/RsQNAEaS_400x400.jpg"
+    },
+    {
+      "name": "HAWK",
+      "address": "0xbC85F14059d60458b614052b4a84734E463878cc",
+      "symbol": "HAWK",
+      "decimals": 18,
+      "chainId": 766,
+      "logoURI": "https://github.com/RobotMasterxo/qomswapassets/blob/main/0xbC85F14059d60458b614052b4a84734E463878cc/logo.png?raw=true",
+      "telegramURI": "https://t.me/hawkqrc20"
+    },
+    {
+      "name": "QIM",
+      "address": "0xAB8b2Ef3215943567CdA4cB7878A22c404669Ff7",
+      "symbol": "QIM",
+      "decimals": 18,
+      "chainId": 766,
+      "logoURI": "https://github.com/RobotMasterxo/qomswapassets/blob/main/0xAB8b2Ef3215943567CdA4cB7878A22c404669Ff7/logo.jpg?raw=true",
+      "telegramURI": "https://t.me/QIMportalqom"
+    },
+    {
+      "address": "0x0032b31FD08765fFbb4E327f93d80d741c0e03A4",
+      "decimals": 18,
+      "chainId": 766,
+      "name": "PREDATOR",
+      "symbol": "PQOM",
+      "telegramURI": "https://t.me/predatorqom",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0x0032b31FD08765fFbb4E327f93d80d741c0e03A4/logo.png"
+    },
+    {
+      "address": "0x80684D6EDf43f7d01d2C65eeD4988f4F18443C01",
+      "decimals": 18,
+      "chainId": 766,
+      "name": "QOM PEPE",
+      "symbol": "QOPE",
+      "telegramURI": "https://t.me/Qope_Gate",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0x80684D6EDf43f7d01d2C65eeD4988f4F18443C01/logo.png"
+    },
+    {
+      "address": "0x2171Af69D4e5ceEB5e82D408b1A9948DE9f90b00",
+      "decimals": 18,
+      "chainId": 766,
+      "name": "Kodai Rise",
+      "symbol": "Kodai🐻",
+      "telegramURI": "https://t.me/kodaiqrc20",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0x2171Af69D4e5ceEB5e82D408b1A9948DE9f90b00/logo.png"
+    },
+
+    {
+      "address": "0xf2330020a1fbaf4c0743FfEb188748D19D90F1fF",
+      "decimals": 9,
+      "chainId": 766,
+      "name": "BABY HAWK",
+      "symbol": "HAWKY",
+      "telegramURI": "https://t.me/babyhawkqom",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0xf2330020a1fbaf4c0743FfEb188748D19D90F1fF/logo.png"
     },
     {
       "address": "0x4AF41F453Ead00d1cc6Aa0b5B454bdeB102AFc8d",
@@ -14,7 +79,36 @@
       "chainId": 766,
       "name": "QOMSWAP",
       "symbol": "QSWAP",
+      "telegramURI": "https://t.me/qomswaportal",
       "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0x4AF41F453Ead00d1cc6Aa0b5B454bdeB102AFc8d/logo.png"
+    },
+    {
+      "address": "0xFaE3Bf38A6f8A2308ec12abbB337839b2d54B1ac",
+      "decimals": 18,
+      "chainId": 766,
+      "name": "QOMAGA",
+      "symbol": "QOMAGA",
+      "telegramURI": "tttps://t.me/qomaga1",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0xFaE3Bf38A6f8A2308ec12abbB337839b2d54B1ac/logo.png"
+    },
+
+    {
+      "address": "0xef0f9dc088c731dac25011ce803147e006f406b2",
+      "decimals": 18,
+      "chainId": 766,
+      "name": "Bird Eat Bird",
+      "symbol": "QOMNOM",
+      "telegramURI": "https://t.me/BirdEatBird",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0xef0f9dc088c731dac25011ce803147e006f406b2/logo.png"
+    },
+    {
+      "address": "0x2860Ec7C34b29F3D2B43788c9a5F0De051f799BB",
+      "decimals": 18,
+      "chainId": 766,
+      "name": "Robert A. Heinlein (Father)",
+      "symbol": "FATHER",
+      "telegramURI": "https://t.me/Heinlein_Erc20",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0x2860Ec7C34b29F3D2B43788c9a5F0De051f799BB/logo.png"
     },
     {
       "name": "Tether USD FROM ETHEREUM",
@@ -24,14 +118,30 @@
       "chainId": 766,
       "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0xC276b91c0e8D10260af7b67009d2683bB7776308/logo.png"
     },
-  ],
-  "name": "Qom Tokens",
-  "logoURI": "",
-  "keywords": [""],
-  "timestamp": "2024-06-13T00:00:00.000Z",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+    {
+      "address": "0x93BA818518587273bB6E8CEfA4B46674072f24a7",
+      "decimals": 18,
+      "chainId": 766,
+      "name": "QARTEL",
+      "symbol": "QAWK",
+      "telegramURI": "https://t.me/QOMQartel",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0x93BA818518587273bB6E8CEfA4B46674072f24a7/logo.png"
+    },
+    {
+      "name": "USDC FROM ETHEREUM",
+      "address": "0xb0a125E9673DC8e12BbCD0769c1257Cf4A836D54",
+      "symbol": "qUSDC",
+      "decimals": 6,
+      "chainId": 766,
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0xb0a125E9673DC8e12BbCD0769c1257Cf4A836D54/logo.png"
+    },
+    {
+      "name": "CAW FROM ETHEREUM",
+      "address": "0xd2140E16aDf37194036865E90BbCA1139b739d0D",
+      "symbol": "qCAW",
+      "decimals": 18,
+      "chainId": 766,
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0xd2140E16aDf37194036865E90BbCA1139b739d0D/logo.png"
+    }
+  ]
 }
