@@ -7,7 +7,23 @@
       "symbol": "WQOM",
       "decimals": 18,
       "logoURI": "https://pbs.twimg.com/profile_images/1580732227427745794/RsQNAEaS_400x400.jpg"
-    }
+    },
+    {
+      "address": "0x4AF41F453Ead00d1cc6Aa0b5B454bdeB102AFc8d",
+      "decimals": 18,
+      "chainId": 766,
+      "name": "QOMSWAP",
+      "symbol": "QSWAP",
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0x4AF41F453Ead00d1cc6Aa0b5B454bdeB102AFc8d/logo.png"
+    },
+    {
+      "name": "Tether USD FROM ETHEREUM",
+      "address": "0xC276b91c0e8D10260af7b67009d2683bB7776308",
+      "symbol": "qUSDT",
+      "decimals": 6,
+      "chainId": 766,
+      "logoURI": "https://raw.githubusercontent.com/RobotMasterxo/qomswapassets/main/0xC276b91c0e8D10260af7b67009d2683bB7776308/logo.png"
+    },
   ],
   "name": "Qom Tokens",
   "logoURI": "",
